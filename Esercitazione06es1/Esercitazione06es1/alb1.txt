@@ -1,0 +1,7 @@
+Gaa 1 1
+	Af 1 0
+		Aez 0 0
+	Moo 1 1
+		H 0 1
+			Jjk 0 0
+		Zzz 0 0

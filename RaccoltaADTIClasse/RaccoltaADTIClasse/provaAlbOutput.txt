@@ -1,0 +1,9 @@
+Ergal 3.6
+	Nino 3.40
+		baudo* 3.30
+		botta* 3.50
+	Stunna 3.7
+		Cava 3.65
+			ZzZ -1.00
+			matte* 3.63
+		Pea* 5.40

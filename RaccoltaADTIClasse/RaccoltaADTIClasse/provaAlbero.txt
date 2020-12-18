@@ -1,0 +1,5 @@
+Ergal 10.0
+	Nino*  10.0
+	Stunna 10.0
+		Cava* 8.0
+		Pea* 5.4
